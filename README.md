@@ -1,1 +1,0 @@
-# parlzim-app
